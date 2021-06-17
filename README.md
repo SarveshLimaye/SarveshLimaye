@@ -1,5 +1,5 @@
 ### Hey there,I am Sarvesh Limaye 👋
-### Glad to see you here ! !![](https://komarev.com/ghpvc/?username=SarveshLimaye&color=F9F9F9)
+### Glad to see you here ! !![](https://komarev.com/ghpvc/?username=SarveshLimaye&color=DDDDDD)
 
 - ⚡ Coding Enthusiast
 - 🔭 I’m currently working on mern stack
