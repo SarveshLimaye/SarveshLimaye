@@ -1,5 +1,5 @@
 ### Hey there,I am Sarvesh Limaye 👋
-### Glad to see you here ! ![Visitor Count](https://profile-counter.glitch.me/SarveshLimaye/count.svg)
+### Glad to see you here ! !![](https://komarev.com/ghpvc/?username=SarveshLimaye&color=F9F9F9)
 
 - ⚡ Coding Enthusiast
 - 🔭 I’m currently working on mern stack
@@ -18,9 +18,15 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SarveshLimaye&theme=radical" />
 </a>
 
-### Skills
+### Connect with me on
 
-css3 express  gcp git html5 java javascript nodejs python react
+<a href="https://www.instagram.com/sarvesh0507/">
+  <img align="centre" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img>
+</a>
+
+<a href="https://www.linkedin.com/in/sarvesh-limaye-7a922620b">
+<img align="centre" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
+
 
 
 
