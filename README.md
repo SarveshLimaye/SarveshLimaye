@@ -14,4 +14,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=SarveshLimaye)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
 
 ### Conect with me on
-<a href="https://www.instagram.com/sarvesh0507/'>https://github.com/konsav/social-icons/blob/master/social-icons.png?raw=true</a>
+<a href="https://www.instagram.com/sarvesh0507/'>![image](https://user-images.githubusercontent.com/74766567/122382462-91e26500-cf87-11eb-94f5-87fdc42d2b5c.png)</a>
