@@ -8,6 +8,7 @@
 - 📫 How to reach me: sarveshlimaye2002@gmail.com
 
 ### Stats
+<table>
 
 <a href="https://github.com/SarveshLimaye/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SarveshLimaye&show_icons=true&theme=radical" />
@@ -20,7 +21,7 @@
 <a href="https://github.com/SarveshLimaye/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SarveshLimaye&theme=radical" />
 </a>
-
+</table>
 
 ### Skills
 
