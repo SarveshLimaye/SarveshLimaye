@@ -9,18 +9,20 @@
 
 ### Stats
 <table>
-
+<tr>
 <a href="https://github.com/SarveshLimaye/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SarveshLimaye&show_icons=true&theme=radical" />
 </a>
+  </tr>  
 
 
 
 
-
+<tr>
 <a href="https://github.com/SarveshLimaye/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SarveshLimaye&theme=radical" />
 </a>
+  </tr>
 </table>
 
 ### Skills
