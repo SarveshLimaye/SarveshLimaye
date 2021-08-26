@@ -80,7 +80,7 @@
 
 
 
-### Connect with me 
+### Connect with me on
 
 <a href="https://www.instagram.com/sarvesh0507/">
   <img align="centre" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img>
