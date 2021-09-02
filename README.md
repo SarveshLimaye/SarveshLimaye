@@ -1,10 +1,17 @@
-                                                         <h1>Hey there,I am Sarvesh Limaye 👋 </h1>
+                                                         
+                                                         
+### Hey there,I am Sarvesh Limaye 👋
 ### Glad to see you here !          ![](https://komarev.com/ghpvc/?username=SarveshLimaye&color=DDDDDD)
 
 - ⚡ Coding Enthusiast
+
 - 🔭 I’m currently working on mern stack
+
 - 🌱 I’m currently learning React js and java
+
 - 👯 I’m looking to collaborate on web development
+
+
 - 📫 How to reach me: sarveshlimaye2002@gmail.com
 
 ### Stats
@@ -27,6 +34,11 @@
 
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SarveshLimaye)](https://git.io/streak-stats)
+  
+  
+  
+  [![Sarvesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=SarveshLimaye&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
   </tr>
 </table>
