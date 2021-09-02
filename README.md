@@ -37,7 +37,7 @@
   
   
   
-  [![Sarvesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=SarveshLimaye&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Sarvesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=SarveshLimaye&theme=react-dark)](https://github.com/SarveshLimaye/github-readme-activity-graph)
 
 
   </tr>
