@@ -1,20 +1,19 @@
                                                          
                                                          
-                                                 <div >
-                                                 <h1> Hey there, I am Sarvesh Limaye </h1>
-                                               </div > 
+ # Hey there, I am Sarvesh Limaye :wave:
 ### Glad to see you here !          ![](https://komarev.com/ghpvc/?username=SarveshLimaye&color=DDDDDD)
+  
 
 - ⚡ Coding Enthusiast
 
-- 🔭 I’m currently working on mern stack
+- 🔭 I’m currently working on **Mern stack**
 
-- 🌱 I’m currently learning React js and java
+- 🌱 I’m currently learning **React js and java**
 
-- 👯 I’m looking to collaborate on web development
+- 👯 I’m looking to collaborate on **Web Development**
 
 
-- 📫 How to reach me: sarveshlimaye2002@gmail.com
+- 📫 How to reach me: **sarveshlimaye2002@gmail.com**
 
 ### Stats
 <table>
