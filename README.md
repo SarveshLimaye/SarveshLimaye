@@ -30,7 +30,7 @@
   
 
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SarveshLimaye)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SarveshLimaye&theme=radical)](https://git.io/streak-stats)
   
   
   
