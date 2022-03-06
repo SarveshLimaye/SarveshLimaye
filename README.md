@@ -5,7 +5,7 @@
   
 - ⚡ Coding Enthusiast
 
-- 🔭 I’m currently working on **Mern stack**
+- 🔭 I’m currently working on **MERN stack**
 
 - 🌱 I’m currently learning **Flutter and Java**
 
