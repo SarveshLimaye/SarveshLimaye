@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **MERN stack**
 
-- 🌱 I’m currently learning **Flutter and Java**
+- 🌱 I’m currently learning **Flutter and Next js**
 
 - 👯 I’m looking to collaborate on **Web Development**
 
