@@ -1,6 +1,6 @@
 # Hey there, I am Sarvesh Limaye 👋
 
-### Second year student at University of Mumbai
+### Third year student at University of Mumbai
 ### Glad to see you here!
   
 - ⚡ Coding Enthusiast
