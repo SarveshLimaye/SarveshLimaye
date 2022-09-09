@@ -23,9 +23,7 @@
   </tr>  
 
 <tr>
-<a href="https://github.com/SarveshLimaye/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SarveshLimaye&theme=radical" />
-</a>
+
   
   
 
