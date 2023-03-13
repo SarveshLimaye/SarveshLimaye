@@ -16,10 +16,10 @@
 <table>
 <tr>
 <td>
-<img width="945" alt="image" src="https://github-readme-stats.vercel.app/api?username=SarveshLimaye&show_icons=true&theme=radical">
+<img  alt="image" src="https://github-readme-stats.vercel.app/api?username=SarveshLimaye&show_icons=true&theme=radical">
 </td>
 <td>
-<img width="945" alt="image" src="https://github-readme-streak-stats.herokuapp.com/?user=SarveshLimaye&theme=radical">
+<img  alt="image" src="https://github-readme-streak-stats.herokuapp.com/?user=SarveshLimaye&theme=radical">
 </td>
 </tr>
 </table>
