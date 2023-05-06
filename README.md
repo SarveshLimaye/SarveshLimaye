@@ -11,6 +11,8 @@
 
 - 👯 I’m looking to collaborate on **Web Development and Web3** projects
 
+- 📫 You can also reach out to me at sarveshlimaye2002@gmail.com
+
 ## GitHub Stats 📜
 
 <table>
