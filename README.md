@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Web3 projects**
 
-- 🌱 I’m currently learning **Ethereum Development**
+- 🌱 I’m currently exploring about **Blockchain**
 
 - 👯 I’m looking to collaborate on **Web Development and Web3** projects
 
