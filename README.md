@@ -1,6 +1,6 @@
 # Hey there, I am Sarvesh Limaye 👋
 
-### Third year student at University of Mumbai
+### Final year student at University of Mumbai
 ### Glad to see you here!
   
 - ⚡ Open Source Contributor
