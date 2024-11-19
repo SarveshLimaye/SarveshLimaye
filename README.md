@@ -1,6 +1,6 @@
 # Hey there, I am Sarvesh Limaye 👋
 
-### Final year student at University of Mumbai
+### I'm currently working as Backend and Smart Contract Developer
 ### Glad to see you here!
   
 - ⚡ Open Source Contributor
@@ -21,7 +21,7 @@
 <img  alt="image" src="https://github-readme-stats.vercel.app/api?username=SarveshLimaye&show_icons=true&theme=radical">
 </td>
 <td>
-<img  alt="image" src="https://github-readme-streak-stats.herokuapp.com/?user=SarveshLimaye&theme=radical">
+<img src="https://nirzak-streak-stats.vercel.app/?user=SarveshLimaye&theme=radical" alt="GitHub Streak" />
 </td>
 </tr>
 </table>
